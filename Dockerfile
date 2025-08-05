@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.10
 LABEL maintainer="dan@dennedy.org"
 
 ARG DEBIAN_FRONTEND=noninteractive
